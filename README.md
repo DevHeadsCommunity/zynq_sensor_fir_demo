@@ -38,6 +38,12 @@ Demonstrating the sensor interface through SPI and implementation of FIR filter 
 
 ## Result
 
+|Legend					|
+|-----------|-----------|
+|Red		|Green		|
+|-----------|-----------|
+|Unfiltered	|Filtered	|
+
 <p align="center">
   <img src="images/filter_in_action.png" width="650" title="FIR Filter in Action">
 </p>
