@@ -1,7 +1,7 @@
 # zynq_sensor_fir_demo
-Demonstrating the sensor interface through SPI and implementation of FIR filter in the processor core.
+Demonstrating the sensor interface through SPI IP with Zynq 7000 SoC using the block design method and implementation of FIR filter in the processor core.
 
-<p align="center">
+<p align="left">
   <img src="images/tool_flow_bd.png" width="650" title="Demo Project Implementation Block Diagram">
 </p>
 
@@ -38,13 +38,12 @@ Demonstrating the sensor interface through SPI and implementation of FIR filter 
 
 ## Result
 
-|Legend					|
+|Legend			|	          |
 |-----------|-----------|
-|Red		|Green		|
-|-----------|-----------|
-|Unfiltered	|Filtered	|
+|Red		    |Green		  |
+|Unfiltered	|Filtered	  |
 
-<p align="center">
+<p align="left">
   <img src="images/filter_in_action.png" width="650" title="FIR Filter in Action">
 </p>
 
